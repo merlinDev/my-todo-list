@@ -1,17 +1,3 @@
-// function makeCar(color, numDoors){
-//     return {'color': color, 'numDoors': numDoors};
-// }
-
-// const car1 = makeCar('red', 4);
-// const car2 = makeCar('green', 2);
-
-// console.log(car1)
-// console.log(car2)
-
-// car1['color'] = 'yellow';
-
-// console.log(car1);
-
 class Animal {
     #food;
     #sleepTime;
